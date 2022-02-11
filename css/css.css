@@ -40,7 +40,7 @@ body{
 }
 
 .indicelista a:hover{
-	color: orange;
+	color: black;
 }
 
 .logo{
@@ -181,12 +181,12 @@ a.noSeleccionable {
 }
 
 .submenu a {
-	color: orange;
+	color: grey;
 	text-decoration: none;
 }
 
 .submenu a :hover{
-	color: darkred;
+	color: black;
 }
 
 .logopie{
